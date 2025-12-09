@@ -68,7 +68,7 @@ You will need the following software installed on your machine:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/mohamedkrouf/AirportManagement_KroufMohamed.git](https://github.com/mohamedkrouf/AirportManagement_KroufMohamed.git)
+    git clone https://github.com/mohamedkrouf/AirportManagement_KroufMohamed.git
     ```
 
 2.  **Import into Eclipse**
